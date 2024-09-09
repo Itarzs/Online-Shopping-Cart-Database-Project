@@ -23,6 +23,6 @@
 
 ## Create Database
 
-* Table.sql: Create tables for entities and relationships above.
-* Insert.sql: Insert datas into tables.
-* Modification.sql: Modify the data.
+* [Table.sql](https://github.com/Itarzs/Online-Shopping-Cart-Database-Project/blob/main/Table.sql): Create tables for entities and relationships above.
+* [Insert.sql](https://github.com/Itarzs/Online-Shopping-Cart-Database-Project/blob/main/Insert.sql): Insert datas into tables.
+* [Modification](https://github.com/Itarzs/Online-Shopping-Cart-Database-Project/blob/main/Modification.sql): Modify the data.
